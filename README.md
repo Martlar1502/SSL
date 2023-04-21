@@ -1,4 +1,4 @@
-# Sintaxis-y-Semantica-de-los-lenguajes
+# SSL
 
 
 Sintaxis y semántica de los Lenguajes
